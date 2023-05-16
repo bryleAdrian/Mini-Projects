@@ -1,2 +1,2 @@
 # Mini-Projects
-Mini Projects
+Mini Projects using Tailwind CSS
